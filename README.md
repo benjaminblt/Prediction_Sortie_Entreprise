@@ -1,5 +1,11 @@
 # Prédiction de la sortie des entreprises : probabilité et classification
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/benjaminblt/benjaminblt/main/assets/sortie_entreprises.jpg"
+       alt="Prédiction de sortie d'entreprise - Python et Machine Learning"
+       width="100%">
+</p>
+
 ![Python](https://img.shields.io/badge/Python-Data%20Science-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Préparation%20des%20données-150458?logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Classification-F7931E?logo=scikitlearn&logoColor=white)
